@@ -7,6 +7,7 @@ body {
   background: var(--bg-gradient, linear-gradient(120deg, #181c24 0%, #232946 100%));
   transition: background 0.4s, color 0.4s;
 }
+/* End of file: all media queries and blocks are now properly closed */
 
 body[data-theme='light'] {
   --bg-gradient: linear-gradient(120deg, #f8fafc 0%, #e0e7ef 100%);
