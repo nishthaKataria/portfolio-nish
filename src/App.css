@@ -507,6 +507,7 @@ body[data-theme='light'] .cl-profile-pic {
   .cl-hero-text h1 {
     font-size: 2rem;
   }
+}
 
 
 .designer-main {
@@ -705,4 +706,5 @@ body[data-theme='light'] .cl-profile-pic {
     width: 98vw;
     min-width: 0;
   }
+}
 }
